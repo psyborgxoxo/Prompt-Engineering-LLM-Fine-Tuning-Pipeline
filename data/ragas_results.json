@@ -1,0 +1,7 @@
+{
+  "faithfulness": 0.9667,
+  "answer_relevancy": 0.8,
+  "num_questions": 3,
+  "evaluator": "LLM-as-judge via Groq llama-3.1-8b-instant",
+  "note": "Custom evaluation pipeline \u2014 equivalent to Ragas metrics"
+}
